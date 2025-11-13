@@ -87,4 +87,4 @@ Having considered the business problem, stakeholders and business questions, the
 
 - **Complaints Resolution Rate Per Product:** To Identify which product teams perform best at handling issues.
 
-### Step 3: Identifying Issues and the dataset and cleaning the dataset
+### Step 2: Identifying Issues and the dataset and cleaning the dataset
