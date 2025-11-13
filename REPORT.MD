@@ -33,7 +33,7 @@ From the Consumer Complaints dataset, we can see that the consumers face a numbe
 
 This dataset is useful to a wide range of people within and outside Bank of America. Each group can use the information in diverse ways to improve customer experience, ensure compliance, gain more customers, make better decisions, and so on. The stakeholders who will benefit from this dataset are:
 
-** - Bank leaders, Managers, Investors, and Stakeholders:** Seeing what customers are complaining about the most will enable them spot big problems, fix them quickly, and keep customers happy.
+- **Bank leaders, Managers, Investors, and Stakeholders:** Seeing what customers are complaining about the most will enable them spot big problems, fix them quickly, and keep customers happy.
 
 ** - Customer Service Team:** The customer service team can use this dataset to understand what customers are complaining about and how quickly these issues are resolved. The insights gained will help them improve how they communicate with the customers, train staff, reduce repeated complaints, and make the overall complaint-handling process faster and more effective.
 **Data Analytics & Business Intelligence Team:** This team can turn the dataset into easy to understand reports and dashboards that can be used to discover trends and patterns like which product has the most issues.
