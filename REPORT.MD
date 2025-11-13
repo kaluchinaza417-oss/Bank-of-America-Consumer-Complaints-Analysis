@@ -20,4 +20,7 @@ It contains details on:
 - Consumer Dispute Information
 
 ## Process and Methodology
-### 1. Data Cleaning and Transformation
+This is the process I took to analyze the dataset:
+- Identifyimg the business problem, stakeholders, business questions, and recommended insights 
+- Identifying Issues and the dataset and cleaning the dataset
+- Analysing and visualizing the dataset
