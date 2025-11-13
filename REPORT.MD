@@ -63,15 +63,28 @@ Based on the business problem, these are some of the questions we need to addres
 - How does the bank respond to/close consumer complaints? 
 - What is the complaints resolution rate for each product? 
 
-Recommended Insights
+**RECOMMENDED INSIGHTS**
+
 Having considered the business problem, stakeholders and business questions, the recommended insights are as follows:
-Top N Products With Most Issues: To identify which bank products generate the most complaints. 
-Top N Most Frequent Issues: To analyze which specific issues customers report the most.
-Regional Hotspots: To identify the states where complaints are concentrated.
-Top N Submission Channels: To identify which submission channels are mostly used by the customers to submit their complaints.
-Top N States with Most Complaints: To highlight states that generate the most complaints.
-Complaints Trend Overtime: To identify patterns and trends in complaints submission by the customers.
-Customer Feedback: To gauge how the customers feel their issues are being resolved. Do they feel that the responses to their complaints are timely or not?
-Top 5 States with Highest On-Time Response Rate: To show the top 5 states with the highest on-time response rate.
-Company Response to Consumers Count Distribution: To show how the bank responds to complaints and the most complaint resolution strategy.
-Complaints Resolution Rate Per Product: To Identify which product teams perform best at handling issues.
+
+- **Top N Products With Most Issues:** To identify which bank products generate the most complaints. 
+
+- **Top N Most Frequent Issues:** To analyze which specific issues customers report the most.
+
+- **Regional Hotspots:** To identify the states where complaints are concentrated.
+
+- **Top N Submission Channels:** To identify which submission channels are mostly used by the customers to submit their complaints.
+
+- **Top N States with Most Complaints:** To highlight states that generate the most complaints.
+
+- **Complaints Trend Overtime:** To identify patterns and trends in complaints submission by the customers.
+
+- **Customer Feedback:** To gauge how the customers feel their issues are being resolved. Do they feel that the responses to their complaints are timely or not?
+
+- **Top 5 States with Highest On-Time Response Rate:** To show the top 5 states with the highest on-time response rate.
+
+- **Company Response to Consumers Count Distribution:** To show how the bank responds to complaints and the most complaint resolution strategy.
+
+- **Complaints Resolution Rate Per Product:** To Identify which product teams perform best at handling issues.
+
+### Step 3: Identifying Issues and the dataset and cleaning the dataset
