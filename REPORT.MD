@@ -35,24 +35,34 @@ This dataset is useful to a wide range of people within and outside Bank of Amer
 
 - **Bank leaders, Managers, Investors, and Stakeholders:** Seeing what customers are complaining about the most will enable them spot big problems, fix them quickly, and keep customers happy.
 
-** - Customer Service Team:** The customer service team can use this dataset to understand what customers are complaining about and how quickly these issues are resolved. The insights gained will help them improve how they communicate with the customers, train staff, reduce repeated complaints, and make the overall complaint-handling process faster and more effective.
-**Data Analytics & Business Intelligence Team:** This team can turn the dataset into easy to understand reports and dashboards that can be used to discover trends and patterns like which product has the most issues.
-**Product Managers:** The product managers can use the insights gotten from this dataset to improve product features in order to reduce customer complaints and improve customer satisfaction.
-**Legal Team:** The legal team can use this dataset to ensure that the company’s response to complaints are in line with CFPB regulations and other legal standards.
-**Public Relations (PR)** & Communications Teams: They can use it to prepare public statements based on recurring complaint themes.
-**Government Agencies & Regulators:** Government agencies and regulators can use this data to monitor the bank’s compliance with consumer protection laws and issue penalties if necessary.
-Researchers & Policy Analysts: Researchers can use this dataset in their research on consumer behaviour, consumer protection and systemic issues in the banking sector.
+- **Customer Service Team:** The customer service team can use this dataset to understand what customers are complaining about and how quickly these issues are resolved. The insights gained will help them improve how they communicate with the customers, train staff, reduce repeated complaints, and make the overall complaint-handling process faster and more effective.
+
+- **Data Analytics & Business Intelligence Team:** This team can turn the dataset into easy to understand reports and dashboards that can be used to discover trends and patterns like which product has the most issues.
+
+- **Product Managers:** The product managers can use the insights gotten from this dataset to improve product features in order to reduce customer complaints and improve customer satisfaction.
+
+- **Legal Team:** The legal team can use this dataset to ensure that the company’s response to complaints are in line with CFPB regulations and other legal standards.
+
+- **Public Relations (PR)** & Communications Teams: They can use it to prepare public statements based on recurring complaint themes.
+
+- **Government Agencies & Regulators:** Government agencies and regulators can use this data to monitor the bank’s compliance with consumer protection laws and issue penalties if necessary.
+
+- **Researchers & Policy Analysts:** Researchers can use this dataset in their research on consumer behaviour, consumer protection and systemic issues in the banking sector.
+
 **BUSINESS QUESTIONS**
+
 Based on the business problem, these are some of the questions we need to address: 
-What bank products have the most issues/complaints? –
-What issues occur the most? –
-What is the most used method for complaint submission by the customers? –
-How often are issues resolved on time by the bank? –
-What states have the highest number of complaints. –
-Which year, month or day did the bank receive the most complaints?--
-What states have the highest on-time response rate? –
-How does the bank respond to/close consumer complaints? –
-What is the complaints resolution rate for each product? –
+
+- What bank products have the most issues/complaints? 
+- What issues occur the most? 
+- What is the most used method for complaint submission by the customers? 
+- How often are issues resolved on time by the bank? 
+- What states have the highest number of complaints. 
+- Which year, month or day did the bank receive the most complaints?
+- What states have the highest on-time response rate? 
+- How does the bank respond to/close consumer complaints? 
+- What is the complaints resolution rate for each product? 
+
 Recommended Insights
 Having considered the business problem, stakeholders and business questions, the recommended insights are as follows:
 Top N Products With Most Issues: To identify which bank products generate the most complaints. 
