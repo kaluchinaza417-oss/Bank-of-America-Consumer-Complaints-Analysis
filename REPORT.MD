@@ -27,6 +27,7 @@ This is the process I took to analyze the dataset:
 ### Step 1: Identifyimg the business problem, stakeholders, business questions, and recommended insights 
 **BUSINESS PROBLEM**
 From the Consumer Complaints dataset, we can see that the consumers face a number of issues when using the Bank of America’s products such as mortgage, debt collection, checkings or savings, credit reporting and so on. Some of the issues the customers encounter are: lost or stolen check, applying for a mortgage or refinancing an existing mortgage, attempts to collect debts not owed, trouble during payment process, and so on. 
+
 **STAKEHOLDERS**
 This dataset is useful to a wide range of people within and outside Bank of America. Each group can use the information in diverse ways to improve customer experience, ensure compliance, gain more customers, make better decisions, and so on. The stakeholders who will benefit from this dataset are:
 ** - Bank leaders, Managers, Investors, and Stakeholders:** Seeing what customers are complaining about the most will enable them spot big problems, fix them quickly, and keep customers happy.
