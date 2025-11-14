@@ -113,4 +113,34 @@ I used Microsoft Power BI to clean the dataset.
 
 By implementing the steps above, the dataset is now clean and ready for analysis. We can be sure that whatever insights derived from this dataset is correct and can be trusted.
 
+### Step 3: Analysing and visualizing the dataset
+
+The analysis was carried out using Power BI, focusing on visual techniques to answer the key business questions.
+
+To determine which bank products have the most complaints, I used a bar chart visual showing the count of complaints by product, based on the Complaint ID and Product columns. I applied a Top 5 filter in the filters pane to highlight the five products with the highest number of complaints.
+
+For which issues occur the most, I used a pie chart to display the distribution of complaints by issue, utilizing the Complaint ID and Issue columns. I also applied a Top 5 filter to identify the 5 most frequent issues.
+
+To find the most used method for complaint submission, I created a pie chart that showed the distribution of submission methods. The visual used the Complaint ID and Submitted via columns, with a Top 5 filter applied to show the 5 most common submission channels.
+
+For how often issues are resolved on time, I analyzed the Responded on time column in a pie chart to compare the proportion of “Yes” versus “No” responses.
+
+To identify which states have the highest number of complaints, I used a Tree map visual to display complaint distribution across states. A Top 5 filter was applied using the Complaint ID and State columns to highlight the five states with the most complaints.
+
+To determine which year, month, or day, the bank received the most complaints, I used a line chart with the Date received and Complaint ID columns to visualize complaint trends and patterns over time.
+
+To determine states that have the highest on-time response rate;
+I Created a base measure to count the total number of complaints in the dataset: Total Complaints = COUNTROWS(Data)
+I created a measure to determine the number of on-time responses: On-Time Responses = CALCULATE([Total Complaints], Data[On-Time] = “Yes")
+I created another measure to determine the percentage of on-time responses: % On-Time Responses = DIVIDE([On-Time Responses], [Total Complaints])
+Then I used a bar chart with: Y-axis: State, X-axis: % On-Time Responses 
+
+To evaluate how effectively the bank resolves customer complaints across different products, I created a Complaint Resolution Rate by Product visual in Power BI. The goal was to measure the proportion of complaints that have been closed or resolved (i.e., not “In progress”) for each product category. 
+I Created a measure to count all complaints whose status is not “In progress” (i.e., closed, closed with explanation, closed with monetary relief, Closed with non-monetary relief):
+Closed = CALCULATE([Total Complaints], Data[Company response to consumer] <> "In progress")
+I Calculated the percentage of closed complaints relative to the total complaints:
+Closed % = DIVIDE([Closed], [Total Complaints])
+Then, I Built a horizontal bar chart with: Y-axis: Product, X-axis: Closed %
+
+To determine how the bank responds to/close consumer complaints, I used a column chart with: Y-axis: Total Complaints, X-axis: Company Response to Consumers
 
