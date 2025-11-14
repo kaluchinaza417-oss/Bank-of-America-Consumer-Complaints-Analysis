@@ -206,8 +206,18 @@ To determine how the bank responds to/close consumer complaints, I used a column
 
 **KPIs:** Total Complaints, Top Issue, Top Issue - Prod., Top Issue - State
 
-**Visuals:** Top 5 Products with Most Complaints, Top 5 Recurring Issues, Complaints Trend Overtime, Top 5 States With Most Complaints, and Top 5 Submission Channels.
+**Visuals:** Top 5 Products with Most Complaints, Top 5 Recurring Issues, Complaints Trend Overtime, Top 5 States With Most Complaints, and Top 5 Submission Channels
 
-**View Dashboard:** [BOA Customer Complaints Overview & Insights](https://github.com/kaluchinaza417-oss/BOA-Consumer-Complaints-Dashboards/blob/main/BOA%20Customer%20Complaints%20Overview%20%26%20Insights.jpg)
+**View Dashboard 1:** [BOA Customer Complaints Overview & Insights](https://github.com/kaluchinaza417-oss/BOA-Consumer-Complaints-Dashboards/blob/main/BOA%20Customer%20Complaints%20Overview%20%26%20Insights.jpg)
+
+**Dashboard 2 Title:** BOA Complaints Resolution & Response Analysis
+
+**KPIs:** Resolved Complaints, Complaints in Progress, On-Time Response (%),Closed With Monetary Relief (%)
+
+**Visuals:** Company Response to Consumers, Complaint Resolution Rate by Product, Top 5 States With On-Time Response Rate, Customer Feedback (Timely Response).
+
+**View Dashboard 2:** [BOA Complaint Resolution & Response Analysis](https://github.com/kaluchinaza417-oss/BOA-Consumer-Complaints-Dashboards/blob/main/BOA%20Complaint%20Resolution%20%26%20Response%20Analysis.jpg)
+
+
 
 
