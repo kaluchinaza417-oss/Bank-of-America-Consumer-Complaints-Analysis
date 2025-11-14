@@ -176,7 +176,9 @@ To determine how the bank responds to/close consumer complaints, I used a column
 **Charts Used:** Bar Chart – Top 5 States With On-Time Response Rate
 
 **Business Question:** How does the bank respond to/close consumer complaints?
+
 **Insight:** The chart shows that most of the consumer complaints were closed with explanation. The next in line is closed with monetary relief.
+
 **Charts Used:** Column Chart – Company Responses to Consumers
 
 **Business Question:** What is the complaints resolution rate for each product? 
