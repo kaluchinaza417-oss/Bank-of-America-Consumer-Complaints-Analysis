@@ -171,11 +171,11 @@ To determine how the bank responds to/close consumer complaints, I used a column
 **Insight:** The complaint trend shows a gradual increase over time (the year 2022 recorded the highest number of complaints), with noticeable spikes in recent years, suggesting rising customer awareness and engagement with complaint channels.
 **Charts Used:** Line Chart – Top 5 States With Most Complaints 
 
-**Business Question:** What states have the highest on-time response rate? 
+**Business Question:** What states have the highest on-time response rate?
 **Insight:** The chart shows that the top 5 states that have the highest on-time response rate are; South Dakota (SD), Utah (UT), Maine (ME), Louisiana (LA), and New Hampshire (NH).
 **Charts Used:** Bar Chart – Top 5 States With On-Time Response Rate
 
-**Business Question:** How does the bank respond to/close consumer complaints?  
+**Business Question:** How does the bank respond to/close consumer complaints?
 **Insight:** The chart shows that most of the consumer complaints were closed with explanation. The next in line is closed with monetary relief.
 **Charts Used:** Column Chart – Company Responses to Consumers
 
