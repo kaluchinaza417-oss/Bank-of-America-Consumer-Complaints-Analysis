@@ -114,6 +114,7 @@ I used Microsoft Power BI to clean the dataset.
 By implementing the steps above, the dataset is now clean and ready for analysis. We can be sure that whatever insights derived from this dataset is correct and can be trusted.
 
 ### Step 3: Analysing and visualizing the dataset
+**METHOD OF ANALYSIS**
 
 The analysis was carried out using Power BI, focusing on visual techniques to answer the key business questions.
 
@@ -143,4 +144,42 @@ Closed % = DIVIDE([Closed], [Total Complaints])
 Then, I Built a horizontal bar chart with: Y-axis: Product, X-axis: Closed %
 
 To determine how the bank responds to/close consumer complaints, I used a column chart with: Y-axis: Total Complaints, X-axis: Company Response to Consumers
+
+**INSIGHTS AND VISUALIZATIONS**
+
+**Business Question:** What bank products have the most issues or complaints?
+**Insight:** Checking or savings accounts recorded the highest number of complaints (24,814 complaints), followed by credit cards or prepaid cards (16,197 complaints). This indicates that customers experience more service-related issues in these core banking products.
+**Chart Used:** Bar Chart – Count of Complaint ID by Product (Top 5 Products)
+
+**Business Question:** What issues occur the most?
+**Insight:** The most recurring issue is Managing an account, which represents nearly half of all complaints (about 50%), followed by Incorrect information on reports and Problems with a purchase shown on a statement.
+**Chart Used:** Donut Chart – Count of Complaint ID by Issue (Top 5 Issues)
+
+**Business Question:** What is the most used method for complaint submission by customers?
+**Insight:** The Web is the most used submission channel, accounting for about 73% of total complaints, showing that most customers prefer digital channels to report issues.
+**Chart Used:** Donut Chart – Submission Channels
+
+**Business Question:** How often are issues resolved on time by the bank?
+**Insight:** The majority of complaints (about 96%) were responded to on time, indicating a strong commitment to timely customer service and regulatory compliance.
+**Chart Used:** Donut Chart – Response Timeliness
+
+**Business Question:** What states have the highest number of complaints?
+**Insight:** The top five states with the highest number of complaints are California (CA), Florida (FL), Texas (TX), New York (NY), and Georgia (GA). These states may represent larger customer bases or higher engagement levels with Bank of America’s products.
+**Chart Used:** Tree Map – Complaint Count by State (Top 5 States)
+
+**Business Question:** Which year, month, or day did the bank receive the most complaints?
+**Insight:** The complaint trend shows a gradual increase over time (the year 2022 recorded the highest number of complaints), with noticeable spikes in recent years, suggesting rising customer awareness and engagement with complaint channels.
+**Charts Used:** Line Chart – Top 5 States With Most Complaints 
+
+**Business Question:** What states have the highest on-time response rate? 
+**Insight:** The chart shows that the top 5 states that have the highest on-time response rate are; South Dakota (SD), Utah (UT), Maine (ME), Louisiana (LA), and New Hampshire (NH).
+**Charts Used:** Bar Chart – Top 5 States With On-Time Response Rate
+
+**Business Question:** How does the bank respond to/close consumer complaints?  
+**Insight:** The chart shows that most of the consumer complaints were closed with explanation. The next in line is closed with monetary relief.
+**Charts Used:** Column Chart – Company Responses to Consumers
+
+**Business Question:** What is the complaints resolution rate for each product? 
+**Insight:** The bar chart shows that the product, student loan, has a 100% complaint resolution rate. This means that all complaints for student loan have been resolved (none are currently “In progress”).
+**Charts Used:** Bar Chart – Complaint Resolution Rate by Product
 
