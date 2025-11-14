@@ -201,3 +201,9 @@ To determine how the bank responds to/close consumer complaints, I used a column
 
 **Charts Used:** Bar Chart – Complaint Resolution Rate by Product
 
+### Dashboard Summary
+**Dashboard 1 Title:** BOA Customer Complaints Overview & Insights
+**KPIs:** Total Complaints, Top Issue, Top Issue - Prod., Top Issue - State
+**Visuals:** Top 5 Products with Most Complaints, Top 5 Recurring Issues, Complaints Trend Overtime, Top 5 States With Most Complaints, and Top 5 Submission Channels.
+
+
