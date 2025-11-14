@@ -5,7 +5,7 @@ This project analyzes consumer complaints data related to the Bank of America. T
 - Identify the most common complaint types and their frequencies.
 - Analyze complaint resolution statuses and response timeliness.
 - Assess customer satisfaction levels through complaint outcomes.
-- Enable data-driven decision-making with interactive dashboards.
+- Enable data-driven decision-making with interactive dashboards. 
 
 ## Data Overview
 The dataset used in this analysis was obtained from the Consumer Financial Protection Bureau (CFPB).
