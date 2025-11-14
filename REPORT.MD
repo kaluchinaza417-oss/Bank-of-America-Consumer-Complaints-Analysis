@@ -147,7 +147,7 @@ To determine how the bank responds to/close consumer complaints, I used a column
 
 **INSIGHTS AND VISUALIZATIONS**
 
-**Business Question:** What bank products have the most issues or complaints?
+- **Business Question:** What bank products have the most issues or complaints?
 **Insight:** Checking or savings accounts recorded the highest number of complaints (24,814 complaints), followed by credit cards or prepaid cards (16,197 complaints). This indicates that customers experience more service-related issues in these core banking products.
 **Chart Used:** Bar Chart – Count of Complaint ID by Product (Top 5 Products)
 
