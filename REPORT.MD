@@ -208,6 +208,6 @@ To determine how the bank responds to/close consumer complaints, I used a column
 
 **Visuals:** Top 5 Products with Most Complaints, Top 5 Recurring Issues, Complaints Trend Overtime, Top 5 States With Most Complaints, and Top 5 Submission Channels.
 
-**View Dashboard:** [BOA Customer Complaints Overview & Insights]
+**View Dashboard:** [BOA Customer Complaints Overview & Insights](https://github.com/kaluchinaza417-oss/BOA-Consumer-Complaints-Dashboards/blob/main/BOA%20Customer%20Complaints%20Overview%20%26%20Insights.jpg)
 
 
