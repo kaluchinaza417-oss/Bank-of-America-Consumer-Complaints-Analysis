@@ -99,3 +99,18 @@ I used Microsoft Power BI to clean the dataset.
 3. There were null values in some key columns such as; the “Sub-issue”, “Company public response”, and “Timely response?” columns.
 4. The “timely response?” column name is in a question format and this could interfere in or obstruct queries or formulas in some data analytics tools.
 
+**STEPS TAKEN TO CLEAN THE DATASET**
+
+1. I changed the data type of the “Complaint ID” column from “Whole Number” to “Text” since an ID is unique data and is not a number.
+2. For the “State” column, I retained the data type as “Text” but changed the data category from “Uncategorized” to “State or Province”.
+3. For the “Timely Response?” column, I changed the column name to “Responded on time” because it is easy to understand and does not contain special or misleading characters.
+4. For the key columns with null values, I replaced the null values with “Unknown” to show that the values were not specified.
+
+**CHANGES MADE TO THE COLUMN NAMES OR STRUCTURE**
+
+1. I changed the column name of the “Timely response?” column to “Responded on time” because it is easy to understand and does not contain special or misleading characters. The “Timely response?” column name had a special character (?) that could pose some problems in some data analytics tools.
+2. I changed the data type of the “Complaint ID” column from “Whole Number” to “Text”.
+
+By implementing the steps above, the dataset is now clean and ready for analysis. We can be sure that whatever insights derived from this dataset is correct and can be trusted.
+
+
