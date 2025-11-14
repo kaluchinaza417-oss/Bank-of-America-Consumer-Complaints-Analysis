@@ -88,3 +88,14 @@ Having considered the business problem, stakeholders and business questions, the
 - **Complaints Resolution Rate Per Product:** To Identify which product teams perform best at handling issues.
 
 ### Step 2: Identifying Issues and the dataset and cleaning the dataset
+**TOOL USED**
+
+I used Microsoft Power BI to clean the dataset.
+
+**ISSUES FOUND**
+
+1. The “State” column was in the text format which is correct. However, the data category was Uncategorized.
+2. The “Complaint ID” column was in the whole number format.
+3. There were null values in some key columns such as; the “Sub-issue”, “Company public response”, and “Timely response?” columns.
+4. The “timely response?” column name is in a question format and this could interfere in or obstruct queries or formulas in some data analytics tools.
+
